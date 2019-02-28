@@ -1,0 +1,28 @@
+body{
+    background: url("asset/Background_jadi.png");
+    background-repeat: no-repeat;
+    background-size: 1300px 650px;
+
+}
+
+span{
+    font-weight: bold;
+    color: white;
+    margin-top: 5px;
+}
+
+button{
+    float: left;
+}
+
+
+canvas{
+    border: 5px solid #0a0a0a;
+    background-color: #ffff99;
+    margin-left : 20px;
+    margin-top : 40px;
+
+}
+.mainboard{
+    margin-left: 20px;
+}
